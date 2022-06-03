@@ -1,5 +1,5 @@
 This file is related to IoT with cloud baiscs session in sabudh by
-Saurabh Ritu.
+Saurabh Ritu.   
 Hey Folks, you all have gone through the session and know the basics concepts of mosquitto, mqtt and esp32 and paho python client.
 So, I wanated from all of you to implement the session setup into your local machine (laptops) and do some interesting stuff from your own ideas.
 
